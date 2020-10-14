@@ -1,2 +1,2 @@
-spotify_token = "BQBqSCYMR5ErKHIlYPjI2BGdKoAChzqs7BFt-HoDSfewBIJEHrZgJS-D34xv5Cc0IMU6EFS4qFEFBu65520EhPw0jCpGAhcwOsNmM38YNYaczb3yszruyUOX3YQktyJKM5OqudLYe93gnLDjBMl-P3ORcivXlhsgus_FSh4afCvn5qZ01XMvHoVFMl9946hQkj8feCZnjg2f4bvAhg"
-spotify_user_id = "heyitsangiex"
+spotify_token = ""
+spotify_user_id = ""
